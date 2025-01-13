@@ -26,7 +26,7 @@ Este projeto é uma Pokédex interativa que permite buscar e visualizar Pokémon
 
 1. **Clonar o Repositório**:
    ```bash
-   git clone https://github.com/seu-repositorio/pokedex-navegavel.git
+   git clone https://github.com/GomesRaphael/Pokedex.git
    ```
 
 2. **Abrir o Projeto**:
